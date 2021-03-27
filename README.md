@@ -1,4 +1,4 @@
-ListImportJSON
+#ListImportJSON
 Imports a list of JSON feed and returns the results to be inserted into a Google Spreadsheet. ListImportJSON.gs adds a =ListImportJSON() function to your spreadsheet, allowing quick and easy JSON importing. To use go to Tools > Script Editor and add the ListImportJSON.gs file. Now in your spreadsheet you can access the ListImportJSON() function.
 
 The JSON feed is flattened to create a two-dimensional array. For every JSON feed in the list, the first row contains the headers, with each column header indicating the path to that data in the JSON feed. The remaining rows contain the data.
