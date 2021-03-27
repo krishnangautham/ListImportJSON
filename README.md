@@ -30,4 +30,4 @@ Example:
     @param {parseOptions} a comma-separated list of options that alter processing of the data
     @customfunction
     
-Review ListImportJSON.gs for more info on how to use these in detail. Script developers can easily extend the functionality of this library by using ImportJSONAdvanced function. An example spreadsheet is also attched.
+Review ListImportJSON.gs for more info on how to use these in detail. Script developers can easily extend the functionality of this library by using ImportJSONAdvanced function. An example spreadsheet is also attached.
